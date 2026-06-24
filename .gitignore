@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+# generated output
+edited/*
+!edited/.gitkeep
+placement.json

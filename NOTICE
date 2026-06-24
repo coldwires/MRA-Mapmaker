@@ -1,0 +1,18 @@
+MRA Mapmaker — Notice
+
+The MIT License (see LICENSE) applies to the TOOL: the source code in this
+repository (editor.py, secio.py, render.py, art.py, scbdata.py, the launchers)
+and its documentation.
+
+It does NOT cover the bundled game data and art, which belong to the original
+game and its creators:
+
+  - assets/SCBART.256, assets/PAL256   (original tile art and palette)
+  - data/coordinate-maps/, data/area-maps/, data/sectors.sectext
+                                       (original sector / map data)
+  - data/world_map.json, data/world_layout_full.json, data/ods_50_world.png
+
+These are included for preservation and community use of "Mystic Realms of
+Alhanzar," a defunct OGN online RPG, and remain the property of their
+respective owners. If you are a rights holder and would like them removed,
+please open an issue.

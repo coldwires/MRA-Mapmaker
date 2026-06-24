@@ -1,0 +1,12 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Binary assets and game data — never normalize line endings
+*.SEC  binary
+*.256  binary
+*.png  binary
+*.mp4  binary
+
+# Scripts — keep platform-correct line endings
+*.bat  text eol=crlf
+*.sh   text eol=lf
